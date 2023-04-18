@@ -2,7 +2,7 @@
 Code and data for "Tuning out the Noise" paper
 
 ## Data
-The raw sample sentences we used to benchmark each NER model is in `sample_sentences.tsv`
+The raw sample sentences we used to benchmark each NER model are in `sample_sentences.tsv`
 
 Our annotated, gold-standard entity dataset is available, by page text, in the folders `ann1` and `ann2` for each round of annotation, respectively. These files feed right into brat (https://brat.nlplab.org/) the annotation software we used for each round.
 
